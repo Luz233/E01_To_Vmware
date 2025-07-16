@@ -1,0 +1,23 @@
+ewfacquirestream 20140813
+
+Using the following acquiry parameters:
+Image path and filename:		image.E01
+Case number:				case_number
+Description:				description
+Evidence number:			evidence_number
+Examiner name:				examiner_name
+Notes:					notes
+Media type:				fixed disk
+Is physical:				yes
+EWF file format:			EnCase 6 (.E01)
+Compression method:			deflate
+Compression level:			none
+Acquiry start offset:			0
+Number of bytes to acquire:		0 (until end of input)
+Evidence segment file size:		1.4 GiB (1572864000 bytes)
+Bytes per sector:			512
+Block size:				64 sectors
+Error granularity:			64 sectors
+Retries on read error:			2
+Zero sectors on read error:		no
+
